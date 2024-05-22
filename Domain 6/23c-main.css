@@ -21,10 +21,12 @@ figcaption {
 a:hover {
     text-decoration:underline;
     font-weight:bold;
+    font-family:'palatino linotype', 'times new roman', serif;
 }
 .sale {
     font-weight:bold;
     background-color:aqua;
+    
 }
 #sidenote {
     background-color:#dbd9d9;
