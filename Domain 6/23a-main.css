@@ -6,12 +6,10 @@
 p {
     color: navy;
 }
-a {
-    text-decoration:none;
-}
-a:hover {
-    text-decoration:underline;
+figcaption{
+    color: navy;
     font-weight:bold;
+    background-color:aqua;
 }
 .sale {
     font-weight:bold;
